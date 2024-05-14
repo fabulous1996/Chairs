@@ -1,2 +1,2 @@
 # Chairs
-Petit site pour pratiquer 
+Petit projet très simple en HTML, CSS et très peu de JS
