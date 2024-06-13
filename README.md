@@ -1,6 +1,12 @@
 # Chairs
 Project in HTML & CSS from Jonas Schmedtmann HTML & CSS course on Udemy course.
 
-![alt text](top-page.png)
-![alt text](mid-page.png)
-![alt text](bottom-page.png)
+
+# Top page
+![Top page](top-page.png)
+
+# Mid page
+![Mid page](mid-page.png)
+
+# Bottom page
+![Bottom page](bottom-page.png)
